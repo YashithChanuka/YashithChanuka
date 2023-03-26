@@ -1,7 +1,6 @@
 
 <h1 align="center">Hey There 👋🏼 I'm Yashith Chanuka</h1>
 <h3 align="center">A motivated, enthusiastic and hardworking Software Engineer from Sri Lanka 🇱🇰</h3>
-<img align="right" alt="Coding" width="300" style="border-radius: '100%'" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDY1MGE4ZTk3MTlmZWYzNGUwYjRkZmVmYWM0ZTYzNDA1ZmNlMzE4YSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 💬 Ask me about **Java, Spring Boot, Angular, React, TypeScript, JavaScript**
 
